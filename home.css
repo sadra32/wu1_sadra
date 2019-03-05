@@ -1,0 +1,72 @@
+#gabe{
+
+  font-family: Arial, sans-serif;
+  background-image: url(metro.jpeg);
+  background-size:cover;
+/* Lägger en backgrunds bild för att snygga till webbsidan med en annat font för att förstora och så det ser bättre ut */
+
+}
+
+ #alyssa {
+   padding:20px;
+   border-radius: 20px;
+  list-style: none;
+  color: white;
+  background-color: rgb(116, 116, 111);
+  text-align:center;
+
+/* Här använder jag kod för att putsa till nav bar och ger den form och göra det så använder-friendly som jag kan */
+
+
+ }
+ #alyssa > li {
+   display: inline-block;
+   margin-right: 50px;
+/* Använder inline-block för att det ska vara separata och med rätt margin för att hålla avstånd */
+
+
+ }
+ #alyssa > li > a {
+   text-decoration: none;
+   color:white;
+   background-color:grey;
+   padding:2px;
+   border: 2px solid aqua;
+
+/* här så ger jag liv till mina attributes på min nav bar */
+
+
+ }
+ #alyssa > li > a:hover {
+   color: aqua;
+   background-color:white;
+ }
+/* bara ett simpelt hover function så det ändras färg */
+
+
+#Viktor {
+   padding: 120px;
+   border: solid 2px;
+   text-align:center;
+   background-color: #13E8E1;
+   color:white;
+   }
+
+   /*Här är min main vilket jag använder för att presentera.  */
+
+
+   #bottom {
+     margin-top: 22%;
+     text-align: center;
+      border: solid #13E8E1  2px;
+      border-radius: 10px;
+      background-color: #13E8E1;
+
+   }
+
+     /* footer för att bara lägga in några små easter eggs ärligt talat. och att det tar lite plats */
+
+   #typ {
+    color:white;
+   }
+   /* använder vitt färg så det lyser genom de turkosa färgen  */

@@ -1,0 +1,74 @@
+#gabe{
+
+    font-family: Arial, sans-serif;
+    background-image: url(metro.jpeg);
+    background-size: 1080px ,780px;
+    background-size:cover;
+}
+
+ #alyssa {
+   padding:20px;
+   border-radius: 20px;
+  list-style: none;
+  color: white;
+  background-color: rgb(116, 116, 111);
+  text-align:center;
+
+
+
+
+ }
+ #alyssa > li {
+   display: inline-block;
+   margin-right: 50px;
+
+
+
+ }
+ #alyssa > li > a {
+   text-decoration: none;
+   color:white;
+   background-color:grey;
+   padding:2px;
+   border: 2px solid aqua;
+
+ }
+ #alyssa > li > a:hover {
+   color: aqua;
+   background-color:white;
+ }
+
+#Viktor {
+margin-top: 50px;
+   background-size: 100%;
+   border: solid 2px;
+   text-align:center;
+   background-color: #13E8E1;
+   color:white;
+   }
+
+
+   #ladda {
+
+     text-align: left;
+   }
+   /* försöker aligna ladda knappen åt vänstra sidan */
+
+#cv  {
+      width: 750px;
+      height: 950px;
+   }
+   /* byter storlek på bilden så att det justeras med main */
+
+   #bottom {
+     margin-top: 12%;
+     text-align: center;
+      border: solid #13E8E1  2px;
+      border-radius: 10px;
+      background-color: #13E8E1;
+   }
+
+
+   #typ {
+    color:white;
+   }
